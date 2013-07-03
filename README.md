@@ -1,7 +1,7 @@
 wp-404-dashboard-edit
 =====================
 
-A simple template to edit the content of the 404 page in the WordPress Dashboard
+A simple template to edit the content of the 404 error page right in the WordPress Dashboard
 
 HowTo
 -----
@@ -14,4 +14,5 @@ HowTo
 Resources
 ---------
 
-I used [this entry from the wordpress.org forums](http://wordpress.org/support/topic/how-to-display-a-specific-page) to create this 404-file
+*  [http://wordpress.org/support/topic/how-to-display-a-specific-page](http://wordpress.org/support/topic/how-to-display-a-specific-page)
+*  [http://justintadlock.com/archives/2009/05/13/customize-your-404-page-from-the-wordpress-admin#comment-200571](http://justintadlock.com/archives/2009/05/13/customize-your-404-page-from-the-wordpress-admin#comment-200571)
