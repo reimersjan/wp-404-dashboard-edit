@@ -10,3 +10,8 @@ HowTo
 *  Replace `THEPAGEID` in the `404.php` with the actual Page ID
 *  Put the `404.php` in your theme's folder
 *  Done!
+
+Resources
+---------
+
+I used [this entry from the wordpress.org forums](http://wordpress.org/support/topic/how-to-display-a-specific-page) to create this 404-file
